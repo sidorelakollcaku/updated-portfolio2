@@ -10,7 +10,7 @@
 * style.css (main stylesheet)
 
 ##### Instructions to Run the App
-* Deployed at 
+* Deployed at  https://sidorelakollcaku.github.io/updated-portfolio2/.
 
 ##### Technologies Used
 * CSS3
